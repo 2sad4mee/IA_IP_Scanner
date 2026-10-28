@@ -15,5 +15,5 @@ Công cụ quét mạng nội bộ (LAN), kiểm toán cổng dịch vụ (Port 
 ### 1. Chạy trực tiếp từ mã nguồn
 Yêu cầu máy đã cài đặt **Python 3.8+**:
 ```bash
-git clone [https://github.com/](https://github.com/)<username_cua_ban>/IA-IP-Scanner.git
+git clone [https://github.com/](https://github.com/)2sad4mee/IA-IP-Scanner.git
 cd IA-IP-Scanner
